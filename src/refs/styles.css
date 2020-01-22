@@ -1,7 +1,7 @@
 .input__field {
-	width: 300px;
+  width: 300px;
 }
 
 .input__field--highlighted {
-	background-color: #9de9a0;
+  background-color: #9de9a0;
 }

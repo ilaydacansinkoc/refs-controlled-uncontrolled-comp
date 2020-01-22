@@ -3,13 +3,13 @@ import React from 'react';
 import MyInputCallbackRef from './refs/MyInputCallbackRef';
 
 const App: React.FC = () => {
-	return (
-		<>
-			<MyInputCallbackRef />
-			<MyInputCallbackRef />
-			<MyInputCallbackRef />
-		</>
-	);
+  return (
+    <>
+      <MyInputCallbackRef />
+      <MyInputCallbackRef />
+      <MyInputCallbackRef />
+    </>
+  );
 };
 
 export default App;
