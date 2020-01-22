@@ -1,12 +1,13 @@
 import React from 'react';
-import MyInput from './refs/MyInput';
+// import MyInput from './refs/MyInput';
+import MyInputCallbackRef from './refs/MyInputCallbackRef';
 
 const App: React.FC = () => {
 	return (
 		<>
-			<MyInput />
-			<MyInput />
-			<MyInput />
+			<MyInputCallbackRef />
+			<MyInputCallbackRef />
+			<MyInputCallbackRef />
 		</>
 	);
 };
